@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @topcod3
+- 👋 Hi, I’m @c0smicSage
 - 👀 I’m interested in kernel development
 - 🌱 I’m currently learning c++ language
 
