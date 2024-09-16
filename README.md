@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dyslexicman
+- 👋 Hi, I’m @einsteinpatel
 - 👀 I’m interested in kernel development
 - 🌱 I’m currently learning c++ language
 
